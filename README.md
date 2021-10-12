@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Sandinen
+- 👀 I’m interested in in learning programming, i have no experience but after several years of ''wanting to learn'', i have now finally taken the first step and started studying Programming 1, in Sweden.
+- 🌱 I’m currently learning Programming 1
+- 📫 You can reach me on e-mail: Sandin0209@outlook.com
